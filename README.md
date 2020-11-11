@@ -1,6 +1,6 @@
 # soccerOddsPredictor
 
-This is the repo for SDUWH TiCai Cup
+This is the repo for SDU TiCai Cup
 The project contains 3 main part
 
 - data: store the soccer dataset
